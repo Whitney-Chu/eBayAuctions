@@ -6,6 +6,6 @@ The decision tree with all the predictors is as follows:
 
 ![alt text](dt1.PNG)
 
-he decision tree with only the significant predictors is as follows:
+The decision tree with only the significant predictors is as follows:
 
 ![alt text](dt2.PNG)
